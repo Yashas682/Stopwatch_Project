@@ -1,8 +1,8 @@
-# Stopwatch_Project
+### Stopwatch_Project
 
 This stopwatch app uses ONLY vanilla javascript, no libraries or frameworks of Javascript is used. Bootstrap is also used for styling efficienty.
 
-FEATURES:
+## Features:
     Start timer-
         On click of start button, the timer will start
         If timer is 0 timer starts from beginning else it starts from wherever last stopped
@@ -13,7 +13,7 @@ FEATURES:
     Reset button-
         On click of reset the watch stops (if already started) and sets timer as 0
 
-LINKS:
+## Links:
 
     Video Link-
         
