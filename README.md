@@ -1,4 +1,4 @@
-### Stopwatch_Project
+# Stopwatch_Project
 
 This stopwatch app uses ONLY vanilla javascript, no libraries or frameworks of Javascript is used. Bootstrap is also used for styling efficienty.
 
