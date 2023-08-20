@@ -22,4 +22,4 @@ This stopwatch app uses ONLY vanilla javascript, no libraries or frameworks of J
            https://yashas682.github.io/Stopwatch_Project/
 
 ## User Interface:
-![Stop Watch - Google Chrome 14-03-2023 22_58_15](https://github.com/Yashas682/Stopwatch_Project/assets/91604926/3b856322-d24d-4b20-a48a-f4c110cfba85)
+![Stop Watch - Google Chrome 14-03-2023 22_58_15 (2)](https://github.com/Yashas682/Stopwatch_Project/assets/91604926/18274670-8015-4feb-8b21-fda0f9271744)
